@@ -1,2 +1,2 @@
 # CSS-Mini-Project---Sidebar-Menu
-Created this project only using HTML and CSS.
+Created this project with using HTML and CSS only.
